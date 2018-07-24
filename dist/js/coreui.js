@@ -65,7 +65,7 @@
     var Default = {
       defaultPage: 'main.html',
       errorPage: '404.html',
-      subpagesDirectory: 'views/'
+      subpagesDirectory: '/'
     };
 
     var AjaxLoad =
